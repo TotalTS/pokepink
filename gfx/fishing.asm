@@ -1,0 +1,7 @@
+RedFishingTilesFront: INCBIN "gfx/overworld/red_fish_front.2bpp"
+RedFishingTilesBack:  INCBIN "gfx/overworld/red_fish_back.2bpp"
+RedFishingTilesSide:  INCBIN "gfx/overworld/red_fish_side.2bpp"
+RedFishingRodTiles:   INCBIN "gfx/overworld/fishing_rod.2bpp"
+FtrainerFishingTilesFront: INCBIN "gfx/overworld/ftrainer_fish_front.2bpp"
+FtrainerFishingTilesBack:  INCBIN "gfx/overworld/ftrainer_fish_back.2bpp"
+FtrainerFishingTilesSide:  INCBIN "gfx/overworld/ftrainer_fish_side.2bpp"
