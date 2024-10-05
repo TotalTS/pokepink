@@ -7,9 +7,9 @@ MtMoonB2FWildMons:
 	db 11, ZUBAT
 	db 12, ZUBAT
 	db 13, ZUBAT
-	db  9, SANDSHREW
-	db 11, SANDSHREW
-	db 13, SANDSHREW
+	db  9, EKANS
+	db 11, EKANS
+	db 13, EKANS
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

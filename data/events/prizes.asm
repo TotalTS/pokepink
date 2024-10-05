@@ -5,8 +5,8 @@ PrizeDifferentMenuPtrs:
 
 PrizeMenuMon1Entries:
 	db ABRA
-	db VULPIX
-	db WIGGLYTUFF
+	db GROWLITHE
+	db RAICHU
 	db "@"
 
 PrizeMenuMon1Cost:

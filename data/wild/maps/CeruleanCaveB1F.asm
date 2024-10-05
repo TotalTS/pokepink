@@ -8,8 +8,8 @@ CeruleanCaveB1FWildMons:
 	db 60, DITTO
 	db 56, CHANSEY
 	db 65, DITTO
-	db 55, LICKITUNG
-	db 50, LICKITUNG
+	db 55, MAGMAR
+	db 50, MAGMAR
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

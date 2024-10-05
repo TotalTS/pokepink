@@ -8,8 +8,8 @@ MtMoonB1FWildMons:
 	db 11, ZUBAT
 	db  9, PARAS
 	db 11, PARAS
-	db 10, SANDSHREW
-	db 12, SANDSHREW
+	db 10, EKANS
+	db 12, EKANS
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

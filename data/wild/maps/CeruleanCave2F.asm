@@ -3,7 +3,7 @@ CeruleanCave2FWildMons:
 	db 52, GOLBAT
 	db 57, GOLBAT
 	db 50, GRAVELER
-	db 56, SANDSLASH
+	db 56, ARBOK
 	db 50, RHYHORN
 	db 60, DITTO
 	db 58, GLOOM
