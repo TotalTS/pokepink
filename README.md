@@ -13,6 +13,8 @@ It builds the following ROMs:
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 Keep in mind that this is an already old version of Pokeyellow.
 
+To patch the ROM, Beat Patcher is recommended. https://www.romhacking.net/utilities/893/
+
 Features:
 
 - Clefairy fully replaces Pikachu.
